@@ -3,8 +3,8 @@
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
 |[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|[```<strong>``` and ```<b>``` tage](#strong-and-b-tage)|
-|[meta tag](#meta-tag)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
-|[Div and Span](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
+|[<meta>](#meta)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
+|[```<div>``` and ```<span>```](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
 |[CSS styling in HTML](#css-styling-in-html)|[](#)|
 
 ## Structure of HTML Document
@@ -43,7 +43,7 @@ Like that-> ```<div>, <span>```
 
 [⬆ Back to Top](#Interview)
 
-## div and span
+## ```<div>``` and ```<span>```
 - ```<div>``` is a block-level element that takes full width and starts on a new line they are used for Page-Section, Layouts, Containers.
 
 - ```<span>``` is inline element that takes only required  width and stays in the same line they are used for Styling-Small-Text, Higlighting words.
@@ -56,7 +56,7 @@ Like that-> ```<div>, <span>```
 
 [⬆ Back to Top](#Interview)
 
-## Meta Tag
+## <meta>
 - ```<meta>``` The meta tag provides metadata about the webpage, such as character encoding, responsive settings, description, and keywords. It is placed inside the head tag. 
 
 ## CSS styling in HTML
