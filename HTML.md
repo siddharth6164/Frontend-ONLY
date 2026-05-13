@@ -3,7 +3,7 @@
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
 |[HTML and HTML5](#html-and-html5)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
-|[div and span](#div-and-span)|[inline and block elements](#inline-and-block-elements)
+|[Div and Span](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)
 
 ## HTML and HTML5
 ```HTML```
