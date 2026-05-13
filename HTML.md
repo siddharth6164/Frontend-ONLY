@@ -3,7 +3,7 @@
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
 |[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|
-||[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
+|[meta tag](#meta-tag)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
 |[Div and Span](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
 
 ## Structure of HTML Document
@@ -51,3 +51,6 @@ Like that-> ```<div>, <span>```
 - ```block elements``` take full width and start from a new line. like that ```<div>, <p>, <section>, <h1>```
 
 [⬆ Back to Top](#Interview)
+
+## Meta Tag
+- ```<meta>``` The meta tag provides metadata about the webpage, such as character encoding, responsive settings, description, and keywords. It is placed inside the head tag. 
