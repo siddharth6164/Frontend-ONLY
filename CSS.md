@@ -2,7 +2,7 @@
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
-|[CSS3](#css3)|[Selector](#selector)|
+|[CSS3](#css3)|[Selector](#selector)|[Box Model](#box-model)|
 
 ## CSS3
 - CSS3 is the advanced version of CSS that provides modern styling features like
@@ -26,3 +26,10 @@ type of selector:
 | **Class Selector**     | `.box{}`   | Selects elements with class |
 | **ID Selector**        | `#title{}` | Selects element with id     |
 | **Group Selector**     | `h1, p{}`  | Selects multiple elements   |
+
+## Box Model
+Box Model describes how every HTML element is represented.
+1. Content
+2. Padding
+3. Border
+4. Margin  
