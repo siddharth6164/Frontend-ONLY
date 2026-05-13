@@ -6,6 +6,17 @@
 ||[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
 |[Div and Span](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
 
+## Structure of HTML Document
+1. ```<!DOCTYPE html>``` -> Tells the browser that this document uses HTML5.
+2. ```<html lang="en">``` -> Root element of the HTML document. Inside define ```lang="en"``` language as English.
+3. ```<head>``` -> Stores metadata and settings of webpage. ```<metadata>,<title>```.
+4. ```<meta charset="UTF-8">``` -> Supports all characters and symbols.UTF-8 allows browser to display different languages and special characters properly.
+5. ```<title>``` -> Shows title in browser tab.
+6. ```<link>``` -> Link tag is used to connect external resources like CSS files.
+7. ```<style>``` -> Used for internal CSS.
+8. ```<script>``` -> Used to write JavaScript.
+9. ```<body>``` -> Body tag contains all the visible elements shown to the user.
+
 
 ## HTML and HTML5
 ```HTML```
