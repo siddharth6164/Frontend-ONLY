@@ -2,7 +2,7 @@
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
-|[HTML and HTML5](#html-and-html5)|[#Semantic tags and Non-semantic tags](#semantic-tags-and-nonsemantic-tags)||||
+|[HTML and HTML5](#html-and-html5)|[#Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)||||
 
 ## HTML and HTML5
 ```HTML```
