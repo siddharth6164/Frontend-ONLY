@@ -15,10 +15,10 @@
 
 ## Semantic tags and Non-semantic tags
 ```Semantic tags``` are HTML tags that clearly describe the meaning of the content inside.They make code Easy to read.
-Like that -> <header>, <nav>, <section>, <article>, <aside>, <footer>
+Like that -> ```<header>, <nav>, <section>, <article>, <aside>, <footer>```
 
 ``` Non-semantic tags``` are HTML tags that do not describe the meaning of content. They are mainly used for Styling, Layout.
-Like that-> <div>, <span>
+Like that-> ```<div>, <span>```
 
 ## div and span
 ```<div>``` is a block-level element that takes full width and starts on a new line they are used for Page-Section, Layouts, Containers.
