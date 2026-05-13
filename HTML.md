@@ -5,6 +5,7 @@
 |[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|
 |[meta tag](#meta-tag)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
 |[Div and Span](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
+|[CSS styling in HTML](#css-styling-in-html)|[](#)|
 
 ## Structure of HTML Document
 1. ```<!DOCTYPE html>``` -> Tells the browser that this document uses HTML5.
@@ -54,3 +55,27 @@ Like that-> ```<div>, <span>```
 
 ## Meta Tag
 - ```<meta>``` The meta tag provides metadata about the webpage, such as character encoding, responsive settings, description, and keywords. It is placed inside the head tag. 
+
+## CSS styling in HTML
+CSS styling in three ways:->
+**1. Inline CSS** Apply styles directly to an element using the style attribute.
+**2. Internal CSS** Place CSS inside a ```<style>``` tag within the ```<head>``` section.
+**3. External CSS** Link an external .css file using the ```<link>``` tag.
+
+```html
+
+// Inline CSS : 
+<p style="color: blue; font-size: 16px;">Hello!</p>
+
+// Internal CSS : 
+<head>
+  <style>
+    p { color: blue; font-size: 16px; }
+  </style>
+</head>
+
+// External CSS
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+```
