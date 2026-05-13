@@ -2,7 +2,7 @@
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
-|[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|
+|[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|[```<strong>``` and ```<b>``` tage]()|
 |[meta tag](#meta-tag)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
 |[Div and Span](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
 |[CSS styling in HTML](#css-styling-in-html)|[](#)|
