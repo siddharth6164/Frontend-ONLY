@@ -628,6 +628,8 @@ The event loop lets JavaScript handle async code by coordinating the call stack,
 
 
 ```
+[⬆ Back to Top](#Interview)
+
 ## Block and Non-Block
 ```Non-Block``` 
   - Non-blocking code is code that does not stop execution while task is running. It does not block the main thread and allow others operation to continue.
@@ -653,6 +655,7 @@ The event loop lets JavaScript handle async code by coordinating the call stack,
   console.log("End");
   // Output--> 1. Start 2. Middle 3. End
 ```
+[⬆ Back to Top](#Interview)
 
 ## Synchronous and Asynchronous
 ```Synchronous```
@@ -660,6 +663,8 @@ The event loop lets JavaScript handle async code by coordinating the call stack,
     
 ```Asynchronous```
   - Asynchronous code allows tasks to run independently, so the program does not wait for a task to finish before moving to next line like setTimeout
+
+[⬆ Back to Top](#Interview)
 
 ## async/await
   ```async``` make a function return a promise
@@ -673,11 +678,14 @@ async function getData() {
   console.log(data);
 }
 ```
+
 why use async/await->
  - avoid long ```.then()``` chains
  - easier error handling using ```try...chatch```
    
 <hr>
+
+[⬆ Back to Top](#Interview)
 
 ## input output question
 #### Question1.
@@ -695,3 +703,4 @@ console.log(obj);
 console.log("0"+1);
 console.log(1+1+"0");
 ```
+[⬆ Back to Top](#Interview)
