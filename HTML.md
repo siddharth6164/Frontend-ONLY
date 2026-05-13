@@ -88,8 +88,8 @@ CSS styling in three ways:->
 
 ## ```<section>```, ```<article>```, ```<div>```
 - ```<section>``` Used to divide webpage into different sections.
-  - Example: About section, Contact section, Services section 
+  - Example: **About** section, **Contact** section, **Services** section 
 - ```<article>``` Used for independent content that can stand alone.
-  - Example: Blog post, News article
+  - Example: **Blog post**, **News article**
 - ```<div>``` General-purpose container.
-  - Example: Styling, Layout 
+  - Example: **Styling**, **Layout** 
