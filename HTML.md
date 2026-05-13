@@ -112,6 +112,6 @@ The iframe tag is used to display another webpage or external content inside the
 
 ## list
 There are mainly 3 types of lists:
-1. Ordered List (<ol>)
-2. Unordered List (<ul>)
-3. Description List (<dl>)
+1. Ordered List ```<ol>```
+2. Unordered List ```<ul>```
+3. Description List ```<dl>```
