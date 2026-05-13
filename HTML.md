@@ -28,5 +28,5 @@ Like that-> ```<div>, <span>```
 
 
 ## inline and block elements
-- ```inline elements``` take only required width and stay in the same line. like that <span>, <a>, <strong>
-- ```block elements``` take full width and start from a new line. like that <div>, <p>, <section>, <h1>
+- ```inline elements``` take only required width and stay in the same line. like that ```<span>, <a>, <strong>```
+- ```block elements``` take full width and start from a new line. like that ```<div>, <p>, <section>, <h1>```
