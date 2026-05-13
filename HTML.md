@@ -2,10 +2,10 @@
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
-|[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|[```<strong>``` and ```<b>``` tage](#strong-and-b-tage)|
+|[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|
 |[```<meta>```](#meta)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
 |[```<div>``` and ```<span>```](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
-|[CSS styling in HTML](#css-styling-in-html)|[](#)|
+|[CSS styling in HTML](#css-styling-in-html)|[```<strong>``` and ```<b>``` tage](#strong-and-b-tage)|
 
 ## Structure of HTML Document
 1. ```<!DOCTYPE html>``` -> Tells the browser that this document uses HTML5.
