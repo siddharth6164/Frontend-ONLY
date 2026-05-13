@@ -21,8 +21,8 @@ A CSS selector is used to target HTML elements and apply styles.
 type of selector:
 | Selector           | Example  | Purpose                     |
 | ------------------ | -------- | --------------------------- |
-| **Universal Selector** | `*`      | Selects all elements        |
-| **Element Selector**   | `p`      | Selects HTML tags           |
-| **Class Selector**     | `.box`   | Selects elements with class |
-| **ID Selector**        | `#title` | Selects element with id     |
-| **Group Selector**     | `h1, p`  | Selects multiple elements   |
+| **Universal Selector** | `*{}`      | Selects all elements        |
+| **Element Selector**   | `p{}`      | Selects HTML tags           |
+| **Class Selector**     | `.box{}`   | Selects elements with class |
+| **ID Selector**        | `#title{}` | Selects element with id     |
+| **Group Selector**     | `h1, p{}`  | Selects multiple elements   |
