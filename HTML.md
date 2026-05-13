@@ -6,6 +6,7 @@
 |[```<meta>```](#meta)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[]()|[]()|[]()|
 |[```<div>``` and ```<span>```](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|
 |[CSS styling in HTML](#css-styling-in-html)|[```<strong>``` and ```<b>``` tage](#strong-and-b-tage)|
+|[```<section>```, ```<article>```, ```<div>```](#section-article-div)||
 
 ## Structure of HTML Document
 1. ```<!DOCTYPE html>``` -> Tells the browser that this document uses HTML5.
@@ -84,3 +85,11 @@ CSS styling in three ways:->
   <link rel="stylesheet" href="styles.css">
 </head>
 ```
+
+## ```<section>```, ```<article>```, ```<div>```
+- ```<section>``` Used to divide webpage into different sections.
+  - Example: About section, Contact section, Services section 
+- ```<article>``` Used for independent content that can stand alone.
+  - Example: Blog post, News article
+- ```<div>``` General-purpose container.
+  - Example: Styling, Layout 
