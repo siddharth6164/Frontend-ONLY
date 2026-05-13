@@ -56,7 +56,7 @@ Like that-> ```<div>, <span>```
 
 [⬆ Back to Top](#Interview)
 
-## <meta>
+## ```<meta>```
 - ```<meta>``` The meta tag provides metadata about the webpage, such as character encoding, responsive settings, description, and keywords. It is placed inside the head tag. 
 
 ## CSS styling in HTML
