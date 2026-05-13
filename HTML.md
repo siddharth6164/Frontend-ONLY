@@ -33,6 +33,8 @@
 
 
 ## ```<strong>``` and ```<b>``` tage
+- ```<strong>``` tag indicate important content
+- ```<b>``` tag only for visual bold styling
 
 ## Semantic tags and Non-semantic tags
 - ```Semantic tags``` are HTML tags that clearly describe the meaning of the content inside.They make code Easy to read.
