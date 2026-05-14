@@ -34,6 +34,7 @@
 
 ## class and id
 ```class``` is reusable and can be applied to multiple elements.
+
 ```id``` is unique and used for a single element.
 
 [⬆ Back to Top](#Interview)
