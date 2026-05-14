@@ -5,7 +5,7 @@
 |[CSS3](#css3)|[Selector](#selector)|[Box Model](#box-model)|
 |[Pseudo-Class, Pseudo-Elements](#pseudo-class-pseudo-elements)|[`!important`](#important)|[Opacity](#opacity)|
 |[z-index](#z-index)|[gird and flex-box](#gird-and-flex-box)|
-|[Adaptive design and Responsive design](#adaptive-design-and-responsive-design)|
+|[Adaptive and Responsive design](#adaptive-design-and-responsive-design)|
 ## CSS3
 - CSS3 is the advanced version of CSS that provides modern styling features like
   - Border Radius
@@ -57,7 +57,7 @@ Box Model describes how every HTML element is represented.
 - Grid is used for two-dimensional layouts with rows and columns.
 - Flexbox is used for one-dimensional layouts row and columns.
 
-## Adaptive design and Responsive design 
+## Adaptive and Responsive design 
 - `Adaptive design` 
   - Multiple Fixed layout designed for specific screen sizes.
   - Requires creating and maintaining multiple versions of the design.
