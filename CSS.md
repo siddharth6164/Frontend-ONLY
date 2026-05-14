@@ -26,6 +26,9 @@ type of selector:
 | **Class Selector**     | `.box{}`   | Selects elements with class |
 | **ID Selector**        | `#title{}` | Selects element with id     |
 | **Group Selector**     | `h1, p{}`  | Selects multiple elements   |
+| **Descendant Selector**|  `div p`   | Selects nested elements     |
+| **Child Selector**     |  `div>p`   | Selects direct child        |
+| **Attribute Selector** |`input[type="text"]`|Selects by attribute |
 
 ## Box Model
 Box Model describes how every HTML element is represented.
