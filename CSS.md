@@ -4,7 +4,7 @@
 |----------|----------|----------|----------|----------|
 |[CSS3](#css3)|[Selector](#selector)|[Box Model](#box-model)|
 |[Pseudo-Class, Pseudo-Elements](#pseudo-class-pseudo-elements)|[`!important`](#important)|[Opacity](#opacity)|
-|[z-index](#z-index)|[gird and flex-box](#gird-and-flex-box)|
+|[z-index](#z-index)|[gird and flex-box](#grid-and-flex-box)|
 |[Adaptive and Responsive design](#adaptive-design-and-responsive-design)|
 ## CSS3
 - CSS3 is the advanced version of CSS that provides modern styling features like
