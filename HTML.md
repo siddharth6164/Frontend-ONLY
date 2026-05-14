@@ -4,7 +4,7 @@
 |----------|----------|----------|----------|----------|
 |[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|[class and id](#class-and-id)|
 |[```<meta>```](#meta)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[iframe](#iframe)|
-|[```<div>``` and ```<span>```](#div-and-span)|[Inline, Block, Inline-Block elements](#inline-block-inlineblock-elements)|[list](#list)|
+|[```<div>``` and ```<span>```](#div-and-span)|[Inline, Block, Inline-Block elements](#inline-block-inline-block-elements)|[list](#list)|
 |[CSS styling in HTML](#css-styling-in-html)|[```<strong>``` and ```<b>``` tage](#strong-and-b-tage)|
 |[```<section>```, ```<article>```, ```<div>```](#section-article-div)||
 
