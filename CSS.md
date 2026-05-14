@@ -3,6 +3,7 @@
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
 |[CSS3](#css3)|[Selector](#selector)|[Box Model](#box-model)|
+|[Pseudo-Class, Pseudo-Elements](#pseudo-class-pseudo-elements)||
 
 ## CSS3
 - CSS3 is the advanced version of CSS that provides modern styling features like
@@ -35,4 +36,8 @@ Box Model describes how every HTML element is represented.
 1. Content
 2. Padding
 3. Border
-4. Margin  
+4. Margin
+
+## Pseudo-Class, Pseudo-Elements
+- `Pseudo-Class`
+- `Pseudo-Elements`
