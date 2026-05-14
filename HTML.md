@@ -4,7 +4,7 @@
 |----------|----------|----------|----------|----------|
 |[Structure of HTML Document](#structure-of-HTML-document)|[HTML and HTML5](#html-and-html5)|[class and id](#class-and-id)|
 |[```<meta>```](#meta)|[Semantic tags and Non-semantic tags](#semantic-tags-and-non-semantic-tags)|[iframe](#iframe)|
-|[```<div>``` and ```<span>```](#div-and-span)|[Inline and Block elements](#inline-and-block-elements)|[list](#list)|
+|[```<div>``` and ```<span>```](#div-and-span)|[Inline, Block, Inline-Block elements](#inline-block-inlineblock-elements)|[list](#list)|
 |[CSS styling in HTML](#css-styling-in-html)|[```<strong>``` and ```<b>``` tage](#strong-and-b-tage)|
 |[```<section>```, ```<article>```, ```<div>```](#section-article-div)||
 
@@ -60,9 +60,10 @@ Like that-> ```<div>, <span>```
 
 [⬆ Back to Top](#Interview)
 
-## inline and block elements
+## Inline, Block, Inline-Block elements
 - ```inline elements``` take only required width and stay in the same line. like that ```<span>, <a>, <strong>```
 - ```block elements``` take full width and start from a new line. like that ```<div>, <p>, <section>, <h1>```
+- ```inline-block element``` behaves like an inline element because it stays in the same line, but it also allows width and height like a block element. like that Navigation menus, Buttons, Cards, Horizontal layouts
 
 [⬆ Back to Top](#Interview)
 
