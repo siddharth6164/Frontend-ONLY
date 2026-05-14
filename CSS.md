@@ -39,5 +39,5 @@ Box Model describes how every HTML element is represented.
 4. Margin
 
 ## Pseudo-Class, Pseudo-Elements
-- `Pseudo-Class`
-- `Pseudo-Elements`
+- `Pseudo-Class` define a special state of an element. like `:hover`,`:focus`
+- `Pseudo-Elements` style a specific part of an element. like `::before`, `::after`
