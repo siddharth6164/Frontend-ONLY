@@ -68,3 +68,15 @@ Box Model describes how every HTML element is represented.
 ## `vh` and `vw`
 - `vh` Viewport Height 1VH=10px
 - `vw` Viewport Width 1VW=10px
+
+## positin property
+`static`
+  - follow the normal document flow.
+`relative`
+  - Relative position to it-self. It is nomal position using top, down,right, left.     
+`absolute`
+  - Absolute position is actually set relative to the elements parent. If no parent is available then the relative place to the page it-self.
+`fixed`
+  - Positioned relative to the viewport does not move on scroll.
+`sticky`
+  - Sticky positioning behaves like relative initially and becomes fixed when scrolling.
