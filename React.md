@@ -60,7 +60,7 @@ const MyPureFunction = React.memo(({ title }) => {
 [⬆ Back to Top](#React-Interview)
 
 ## Prop Drilling
-```Prop Drilling``` is the process of passing data from a parent component to deeply nested child component by passing it through intermediate component, even if those component don't need the data themselves.
+```Prop Drilling``` in React happens when we pass data from a parent component to a deeply nested child component through multiple intermediate components. These intermediate components may not actually need the data, but they still have to pass it down. This can make the code difficult to manage and maintain.
 
 [⬆ Back to Top](#React-Interview)
 
