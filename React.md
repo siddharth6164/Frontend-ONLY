@@ -355,4 +355,5 @@ Redux is a state management library used to manage and share global application 
 
 ## Render and Re-render
 ```Render``` -> Rendering means React calls your component function to determine what the UI should look like.
+
 ```Re-render``` -> Re-render happens when React needs to calculate the UI again because something changed.
