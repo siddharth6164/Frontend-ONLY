@@ -13,7 +13,7 @@
 |[Virtual DOM and Real DOM](#virtual-dom-and-real-dom)| |[Life cycle method of components](#life-cycle-method-of-components) ||[useDebugValue](#usedebugvalue)||
 |[key](#key)| |[Redux](#redux) ||[useTransition](#usetransition)|
 |[Memoization in react](#memoization-in-react) ||[Event in react](#event-in-react) | |[useFormStatus](#useformstatus)|
-|||||[Context API](#context-api)|
+|[Render and Re-render](#render-and-re-render)||||[Context API](#context-api)|
 
 ## React
 React is an open-source front-end JavaScript library for building user interfaces based on components. It's used for handling the view layer in web and mobile applications, and allows developers to create reusable UI components and manage the state.
@@ -352,3 +352,7 @@ Redux is a state management library used to manage and share global application 
   - **Provider** – to provide the data
   - **useContext()** – to consume the data in child components
 - It solves the problem of **prop drilling**, where we pass props through multiple intermediate components that don’t actually use the data.
+
+## Render and Re-render
+```Render``` -> Rendering means React calls your component function to determine what the UI should look like.
+```Re-render``` -> Re-render happens when React needs to calculate the UI again because something changed.
