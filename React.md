@@ -165,6 +165,11 @@ const [state, setState] = useState(initialValue);
 ### useEffect/useLayoutEffect
 ```useEffect``` hook that lets you perform side effects in ```function component```.
 useEffect runs after the component renders and after the browser paints the UI.
+**dependency** array of ```useEffect```
+**1. No Dependency Array** || Component Render -> useEffect runs -> State changes -> Component Re-render -> useEffect runs again
+**2. Empty Dependency Array [] ⭐** || Component Mount -> Render -> useEffect runs
+**3. Dependency with a Value [count]** || Initial Render -> useEffect runs ->count changes -> Component Re-renders -> useEffect runs again
+  
   - **Use Cases:** 
     - fetching data from API
     - changing the DOM directly
