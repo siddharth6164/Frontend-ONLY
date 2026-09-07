@@ -21,7 +21,7 @@ React is an open-source front-end JavaScript library for building user interface
 [⬆ Back to Top](#React-Interview)
 
 ## JSX
-JSX stand for ```Javascript XML```, JSX is a syntax extension for JS commonly used with react to describe, what the UI should look like code inside your JS code, making it easier to visualize and work with react components. JSX compiled into JS code by tools like ```Babel```. JSX is not HTML, but it gets compiled into ```React.creactElement()``` calls, which create JS object representing DOM elements.
+JSX stands for ```JavaScript XML```. It is a syntax extension for JavaScript that is commonly used in React to describe what the user interface should look like. JSX allows developers to write HTML-like code inside JavaScript, making React components easier to read and understand. Browsers do not understand JSX directly, so tools like ```Babel compile``` it into regular JavaScript, such as ```React.createElement()``` calls. JSX is not exactly HTML, although its syntax is similar to HTML.
 
 [⬆ Back to Top](#React-Interview)
 
