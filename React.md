@@ -336,10 +336,10 @@ we are using useEffect hook.
 Redux is a state management library used to manage and share global application state.
 
 #### Redux life cycle
-1. Dispatch an Action
-2. Action creators
-3. Reducers
-4. Store
+1. Dispatch an Action -> Dispatch sends an action to the Redux store.
+2. Action creators -> An Action describes what happened.
+3. Reducers -> A Reducer determines how the state should change based on the action.
+4. Store -> The Store holds the application's global state.
 5. UI/components
 
 [⬆ Back to Top](#React-Interview)
