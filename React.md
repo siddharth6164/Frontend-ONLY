@@ -356,4 +356,4 @@ Redux is a state management library used to manage and share global application 
 ## Render and Re-render
 ```Render``` -> Rendering means React calls your component function to determine what the UI should look like.
 
-```Re-render``` -> Re-render happens when React needs to calculate the UI again because something changed.
+```Re-render``` -> In React, re-rendering means React updates a component when its state or props change. During a re-render, React calls the component again and creates a new UI representation based on the updated data. React then compares the new UI with the previous UI through reconciliation and updates only the necessary parts of the real DOM. This helps keep the UI in sync with the latest state and props efficiently.
