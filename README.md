@@ -2,7 +2,7 @@ Hi, my name is Siddharth Singh. I have 2+ years of experience as a React.js Fron
 
 I completed my B.Tech in Computer Science and Engineering in 2022 from Pranveer Singh Institute of Technology (PSIT), Kanpur.
 
-After graduation, I started my professional career at Tata Consultancy Services (TCS), where I worked for around 1.2 years. At TCS, I worked on finance-domain projects, including work related to YONO SBI.
+After graduation, I started my professional career at Tata Consultancy Services (TCS), where I worked for around 1.2 years. At TCS, I worked on finance-domain projects, including work related to YONO SBI.(SBI FasTag, SBI Salary Account, NRI Banking)
 
 In these projects, my role involved frontend development using React, where I worked on building responsive user interfaces, integrating APIs, managing application state, and resolving UI issues. This experience helped me understand enterprise-level coding standards, team collaboration, and production workflows.
 
